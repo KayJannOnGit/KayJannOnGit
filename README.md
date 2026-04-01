@@ -1,4 +1,4 @@
-# Wsup !! I'm KayJann 💎
+# Wsup !! I'm KayJann 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KayJannOnGit&label=Profile%20views&color=0e7afe&style=flat" alt="KayJann" />
