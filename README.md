@@ -6,10 +6,10 @@
 </p>
 
 ### 🛠️ Architect, Preservationist & SysAdmin
-🌱 I'm a developer dedicated to **Minecraft Legacy Console Edition (LCE)** preservation and modern system architecture
-💻 Passionate about **Rust**, **Python** scripting, and managing complex **Self-Hosted** infrastructures
-🌍 Based in **France** `🕗 GMT/UTC+1`
-🎹 • 🛹 • 📸 Piano, Skate, and Photography lover
+🌱 I'm a developer dedicated to **Minecraft Legacy Console Edition (LCE)** preservation and modern system architecture  
+💻 Passionate about **Rust**, **Python** scripting, and managing complex **Self-Hosted** infrastructures  
+🌍 Based in **France** `🕗 GMT/UTC+1`  
+🎹 • 🛹 • 📸 Piano, Skate, and Photography lover  
 
 ---
 
