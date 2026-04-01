@@ -13,6 +13,17 @@
 
 ---
 
+### 🏅 CERTIFICATIONS & ACHIEVEMENTS
+*Recognized credentials and formal validations*
+
+<p align="left">
+  <a href="https://openbadgefactory.com/obv3/credentials/1eb48c20486958ee978e336b01086bf9b6ecd302" target="_blank">
+    <img src="https://img.shields.io/badge/Certification-Open_Badge_Credential-3b82f6?style=for-the-badge&logo=openbadges&logoColor=white" height="40" />
+  </a>
+</p>
+
+---
+
 ### 💻 TECH STACK
 
 **Development & Environment:**
@@ -27,18 +38,18 @@
 ---
 
 ### 🏠 HOME LAB & INFRASTRUCTURE
-*I run a dedicated home-server setup to manage my digital life and experiment with enterprise-grade tech.*
+*I run a dedicated home-server setup to manage my digital life and experiment with enterprise-grade tech*
 
-* **Node 01 (Local Cloud):** Dedicated to family data, personal courses, and private storage.
+* **Node 01 (Local Cloud):** Dedicated to family data, personal courses, and private storage
 * **Node 02 (Production & Dev):**
-    * **Virtualization:** Proxmox/KVM running multiple specialized VMs.
-    * **Game Hosting:** **Pelican Panel** (Pterodactyl fork) for LCE & private servers.
-    * **Automation:** **n8n** for workflow optimization and smart home management.
+    * **Virtualization:** Proxmox/KVM running multiple specialized VMs
+    * **Game Hosting:** **Pelican Panel** (Pterodactyl fork) for LCE & private servers
+    * **Automation:** **n8n** for workflow optimization and smart home management
 
 ---
 
 ### 🏆 THE GAMING VAULT
-*My global gaming achievements and history across all platforms.*
+*My global gaming achievements and history across all platforms*
 
 <p align="left">
   <a href="https://www.exophase.com/user/KayJann/" target="_blank">
@@ -75,7 +86,7 @@
 ### 📂 FEATURED PROJECTS
 
 > [!IMPORTANT]
-> **[Emerald Legacy Launcher](https://github.com/Emerald-Legacy-Launcher/Emerald-Legacy-Launcher)** > The unified portal for Minecraft LCE. Built for performance, modularity, and nostalgia. Powered by **Rust** & **Tauri**.
+> **[Emerald Legacy Launcher](https://github.com/Emerald-Legacy-Launcher/Emerald-Legacy-Launcher)** > The unified portal for Minecraft LCE. Built for performance, modularity, and nostalgia. Powered by **Rust** & **Tauri**
 
 ---
 
