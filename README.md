@@ -65,7 +65,7 @@
   <a href="https://steamcommunity.com/profiles/76561199100831067" target="_blank">
     <img src="https://img.shields.io/badge/Steam-KayJann-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
-  <a href="https://www.exophase.com/user/KayJann/" target="_blank">
+  <a href="https://www.xbox.com/fr-FR/play/user/RealKayJann" target="_blank">
     <img src="https://img.shields.io/badge/Xbox-RealKayJann-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
   </a>
 </p>
