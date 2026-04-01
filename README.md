@@ -82,8 +82,7 @@
 ### 📊 GITHUB STATS
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayJannOnGit&show_icons=true&theme=transparent&title_color=0e7afe&text_color=ffffff&icon_color=0e7afe&hide_border=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayJannOnGit&layout=compact&theme=transparent&title_color=0e7afe&text_color=ffffff&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=KayJannOnGit&cc=0e7afe&tc=ffffff&ic=0e7afe&lb=0e7afe&v=true" />
 </p>
 
 ---
