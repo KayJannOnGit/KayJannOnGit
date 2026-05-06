@@ -42,9 +42,9 @@
 
 * **Node 01 (Local Cloud):** Dedicated to family data, personal courses, and private storage
 * **Node 02 (Production & Dev):**
-    * **Virtualization:** Proxmox/KVM running multiple specialized VMs
-    * **Game Hosting:** **Pelican Panel** (Pterodactyl fork) for LCE & private servers
+    * **Game Hosting:** **Pelican Panel** (Pterodactyl fork) for some private servers
     * **Automation:** **n8n** for workflow optimization and smart home management
+    * **And others :)**
 
 ---
 
